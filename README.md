@@ -1,21 +1,50 @@
 # Convite Digital de Formatura — Enfermeira Lívia Vitória 🎓💚
 
-Aplicação web responsiva e elegante desenvolvida para a comemoração de graduação em Enfermagem da **Lívia Vitória**.
+Uma aplicação web elegante, responsiva e interativa desenvolvida especialmente para celebrar a graduação em **Enfermagem** da **Lívia Vitória**.
+
+---
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em um convite digital interativo com design premium nas cores **Verde Esmeralda** e **Dourado**, combinando a tradição da área de saúde com o toque refinado de celebração.
+Este projeto é um convite digital personalizado projetado com estética luxuosa nas cores **Verde Esmeralda** (`#11352A`) e **Dourado** (`#C7A962`), simbolizando a profissão de Enfermagem aliada ao tom festivo da conquista acadêmica.
 
-## ✨ Funcionalidades e Seções
+---
 
-- **Hero & Apresentação:** Foto de capa, mensagem pessoal e monograma `LV`.
-- **Localização Interativa:** Botão com link direto para o Google Maps.
-- **Confirmação de Presença (RSVP):** Botão para confirmação de presença dos convidados.
-- **Agradecimentos Especializados:** Mensagens dedicadas à família, amigos e conquistas da jornada acadêmica.
-- **Design Responsivo:** Otimizado para telas mobile e desktop.
+## ✨ Funcionalidades e Destaques
+
+- 🎓 **Hero & Apresentação:** Identidade visual marcante com o monograma `LV`, foto oficial e mensagem calorosa da formanda.
+- 📍 **Localização Integrada:** Botão com direcionamento direto para o Google Maps até o local do evento.
+- ✉️ **RSVP via WhatsApp:** Botão de confirmação de presença com mensagem pré-formatada direta para o WhatsApp.
+- 💬 **Mensagens & Agradecimentos:** Espaço dedicado para agradecimentos a Deus, aos pais, à irmã, à família e aos amigos.
+- 📸 **Galeria de Fotos:** Mosaico visual com fotos de pré-formatura e momentos marcantes.
+- 📱 **Design Mobile-First:** Experiência suave e otimizada para smartphones e dispositivos móveis.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**
-- **Tailwind CSS** (via CDN)
-- **Google Fonts** (*Playfair Display* e *Montserrat*)
+- **HTML5:** Estrutura semântica e acessível.
+- **Tailwind CSS (CDN):** Estilização moderna e layout responsivo.
+- **Google Fonts:**
+  - *Playfair Display* (Títulos e Monograma elegante)
+  - *Montserrat* (Texto corporativo e leitura clara)
+- **Font Awesome / SVG Icons:** Ícones integrados.
+
+---
+
+## 📂 Estrutura de Arquivos
+
+```text
+Livia_Vitoria_convite_formatura/
+├── index.html        # Página principal do convite digital
+├── README.md         # Documentação do projeto
+└── img/              # Imagens e fotografias do convite
+    ├── Sem título.jpg
+    ├── Sem título 2.jpg
+    ├── Sem título 3.jpg
+    ├── Sem título 4.jpg
+    ├── Sem título 5.jpg
+    ├── Sem título 6.jpg
+    ├── Sem título 7.jpg
+    └── Sem título 9.jpg
+```
